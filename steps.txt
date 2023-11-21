@@ -1,0 +1,4 @@
+1. run elastic
+2. run sonarqube
+3. on the project : run this command : sonar-scanner
+   on http://localhost:9000 you can find the analysis of the project 
